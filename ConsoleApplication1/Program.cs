@@ -13,6 +13,10 @@ namespace ConsoleApplication1
             Console.Write("test Git");
             Console.Write("test line 2");
             Console.Write("test line 3");
+
+            Console.Write("test Git");
+            Console.Write("test line 2");
+            Console.Write("test line 3");
         }
     }
 }
